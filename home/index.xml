@@ -18,8 +18,8 @@
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Kuan-Wei Tommy Ho is a graduate B.Sc. in Computer Science from National Tsing Hua University. His research interests include artificial intelligence, data science, machine learning, deep learning, natural language processing, computer vision, robotics and their application.
-Tommy had research experiences back in NTHU conducting rigorous research on natural language processing, computer vision and robotics related topics. He also had several industrial experiences dealing with machine learning practicability for production and exploring the possibility of machine learning when facing real world challenges in two distinguished startups and international corporation.</description>
+      <description>Biography Kuan-Wei Tommy Ho recieved his B.Sc. in Computer Science from National Tsing Hua University. He is now preparing for application for graduate degree in computer science related study in U.S. and Europe and soon getting enrolled in R.O.C. Army for compulsory military service.
+Tommy had research experiences back in NTHU conducting rigorous research on natural language processing, computer vision and robotics related topics and implemented several projects regarding machine learning back in NTHU.</description>
     </item>
     
     <item>
@@ -77,6 +77,15 @@ Tommy had research experiences back in NTHU conducting rigorous research on natu
     </item>
     
     <item>
+      <title>Detailed Experience</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
@@ -91,15 +100,6 @@ Tommy had research experiences back in NTHU conducting rigorous research on natu
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
