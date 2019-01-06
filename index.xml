@@ -56,6 +56,8 @@
       <description>&lt;p&gt;Precise semantic presentation of a sentence and definitive information extraction are key steps in the accurate processing of sentence meaning, especially for figurative phenomena such as sarcasm, irony and metaphor. Semantic modeling faces a new challenge in social media because grammatical inaccuracy is commonplace yet many previous state-of-the-art methods exploit grammatical structure. For sarcasm detection over social media content, researchers so far have counted on Bag-of-Words, N-grams and etc. In this project, we apply a neural network semantic model for sarcasm detection on &lt;a href=&#34;arxiv.org/abs/1704.05579&#34; target=&#34;_blank&#34;&gt;Twitter sarcasm dataset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We propose to &lt;strong&gt;combine CNN(1D) with LSTM&lt;/strong&gt; in this project. CNN(1D) extract proper local feature extraction which resembles 1-gram. After the feature extraction, LSTM can fully learn the hidden information behind the context of sequences of higher level features provided by CNN(1D). Such design is often seen in tasks requiring comprehending sequences of images or sounds, such as activity classification or sound classification. We believe that the mixture of CNNs and RNNs can work well also in semantic analysis, as the architecture utilizes both networks’ advantages.&lt;/p&gt;
+
+&lt;p&gt;In order to demonstrate the vaildility of the sarcasm detection model, we designed a GUI interface with keywords searching on Twitter. The system can download keywords-matched tweet immediately from Twitter and detect the sarcasm. The demonstration result can be found in PDF report.&lt;/p&gt;
 </description>
     </item>
     
