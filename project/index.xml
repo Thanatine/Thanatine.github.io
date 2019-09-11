@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Kuan-Wei Ho (Tommy Ho)</title>
+    <title>Projects on Tommy Ho</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Kuan-Wei Ho (Tommy Ho)</description>
+    <description>Recent content in Projects on Tommy Ho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 17:22:31 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 16:55:09 +0800</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>AI Storyteller</title>
-      <link>/project/ai-storyteller/</link>
-      <pubDate>Tue, 01 Jan 2019 17:22:31 +0800</pubDate>
-      
-      <guid>/project/ai-storyteller/</guid>
-      <description>In this project, we design an AI model to generate believable Chinese stories based on MIT Media Lab&amp;rsquo;s ConceptNet semantic database. The project is seperated into two parts. The first part is to use Monte Carlo tree search to generate believable commonsense words sequence based on the semantic information provided by ConceptNet; the second part is to translate the sequence composed of commonsense Chinese words and relations into natural Chinese language sentences.</description>
-    </item>
     
     <item>
       <title>ARGAN</title>
